@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_TiltTable.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QS/NXLTOZMVF6WI9STI3CRKIO.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CG/8D5EXJTMQE01ER6WERG5XJ.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_MazeBall.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/FH/FAER5ZFEFK8I9WL83XTV0K.uasset"
 			]
 		}
 	]
