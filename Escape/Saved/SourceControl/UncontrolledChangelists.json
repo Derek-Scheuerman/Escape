@@ -10,9 +10,22 @@
 				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QS/NXLTOZMVF6WI9STI3CRKIO.uasset",
 				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
 				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CG/8D5EXJTMQE01ER6WERG5XJ.uasset",
 				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_MazeBall.uasset",
-				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/FH/FAER5ZFEFK8I9WL83XTV0K.uasset"
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/FH/FAER5ZFEFK8I9WL83XTV0K.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BPI_Interactables.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Input/Actions/IA_Cancel.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_ItemParent.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Widgets/W_Hud.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JZ/EU1B712VCI975O9A9XN0Z8.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_Key.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/FirstPerson/Input/Actions/IA_HideHeld.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/BP_Door.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/Blueprints/KeyCodes.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/VO/J1UNFBTSUIX6A9KFE2AJ0K.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/FH/H17TAOO37G3HBIBQAVPGOF.uasset",
+				"C:/Users/derek/Desktop/GitHub/Escape/Escape/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/CG/8D5EXJTMQE01ER6WERG5XJ.uasset"
 			]
 		}
 	]
