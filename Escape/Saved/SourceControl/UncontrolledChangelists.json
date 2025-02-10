@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/catou/GitHub/Escape/Escape/Content/Models_Interactable/sm_maze.uasset",
+				"C:/Users/catou/GitHub/Escape/Escape/Content/Models_Interactable/standardSurface1.uasset",
+				"C:/Users/catou/GitHub/Escape/Escape/Content/FirstPerson/Maps/level_1.umap",
+				"C:/Users/catou/GitHub/Escape/Escape/Content/Blueprints/BP_TiltTable.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset",
+				"C:/Users/catou/GitHub/Escape/Escape/Content/StarterContent/Materials/M_Concrete_Tiles.uasset",
 				"F:/UnrealGames/Escape/Escape/Content/Blueprints/BP_Door.uasset",
 				"F:/UnrealGames/Escape/Escape/Content/FirstPerson/Input/Actions/IA_HotBar.uasset",
 				"F:/UnrealGames/Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
