@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FirstPerson/Maps/level_2.umap",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/Blueprints/BP_Door_Open.uasset",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/Widgets/PauseMenu.uasset",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FirstPerson/Maps/MainMenu.umap",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/Widgets/MainMenu.uasset",
+				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/Widgets/LevelSelector.uasset",
 				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FPS_Starter_Pack/Animations/Two_Weapons/Anim_Hands_Two_Weapons_Attack_01.uasset",
 				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FPS_Starter_Pack/Animations/Two_Weapons/Anim_Hands_Two_Weapons_Attack_02.uasset",
 				"E:/Game Design 2 Things/Group Project 1/Escape/Escape/Escape/Content/FPS_Starter_Pack/Animations/Two_Weapons/Anim_Hands_Two_Weapons_Attack_03.uasset",
